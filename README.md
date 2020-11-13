@@ -1,2 +1,3 @@
 # Test-project
-Test github
+
+This is a test project 
